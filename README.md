@@ -13,4 +13,5 @@ The goal is to get better at C, and understand memory management. You can only u
 * read
 * malloc
 * free
+
 , but you can also use functions from your personal library (libft).
