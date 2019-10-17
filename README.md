@@ -10,7 +10,7 @@ get_next_line is an individual project at 42 that teaches you how to open/write 
 
 The goal is to get better at C, and understand memory management. You can only use those three standard library functions:
 
-read
-malloc
-free
+* read
+* malloc
+* free
 , but you can also use functions from your personal library (libft).
